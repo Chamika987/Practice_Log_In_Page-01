@@ -1,6 +1,8 @@
-# Practice Login Page 01 🔐
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=🔐%20Practice-Log-in-page-01&fontSize=40&fontAlignY=35&animation=twinkling" />
+</p>
 
----
 
 ## Overview
 
